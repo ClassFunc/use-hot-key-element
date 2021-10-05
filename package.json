@@ -1,7 +1,7 @@
 {
   "name": "use-hot-key-element",
   "version": "1.0.1",
-  "description": "Make View Funnier",
+  "description": "Make Hot Key in view easier",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
