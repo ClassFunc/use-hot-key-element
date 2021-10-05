@@ -9,7 +9,7 @@ hoặc
 yarn add use-hot-key-element
 ```
 
-### Sử dụng:
+### Sử dụng: 
 
 ```js
 import React, {useEffect, useState} from 'react'
@@ -46,11 +46,12 @@ function Form(){
 - `keys` là một mảng của `key` sử dụng trong trường hợp lắng nghe nhiều `key` khác nhau, hoặc 1 `key`
 - `domQuerySelectorOrFunc` là [selector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) của element, hoặc 1 function được thực hiện khi nhấn `key`
 
-### Lisence:
+### License:
 MIT
 
 ### Author:
 [ClassFunc](https://classfunc.com)
+
 
 
 
