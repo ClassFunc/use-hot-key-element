@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ClassFunc/useHotKey.git"
+    "url": "git+https://github.com/ClassFunc/use-hot-key-element.git"
   },
   "keywords": [
     "use-hot-key-element",
@@ -19,7 +19,7 @@
   "author": "ClassFunc",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ClassFunc/useHotKey/issues"
+    "url": "https://github.com/ClassFunc/use-hot-key-element/issues"
   },
-  "homepage": "https://github.com/ClassFunc/useHotKey#readme"
+  "homepage": "https://github.com/ClassFunc/use-hot-key-element#readme"
 }
