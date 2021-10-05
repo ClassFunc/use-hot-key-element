@@ -1,0 +1,20 @@
+{
+  "name": "use-hot-key",
+  "version": "1.0.0",
+  "description": "Make View Funnier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClassFunc/useHotKey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClassFunc/useHotKey/issues"
+  },
+  "homepage": "https://github.com/ClassFunc/useHotKey#readme"
+}
