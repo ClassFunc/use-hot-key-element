@@ -1,5 +1,5 @@
 {
-  "name": "use-hot-key-press",
+  "name": "use-hot-key-element",
   "version": "1.0.0",
   "description": "Make View Funnier",
   "main": "index.js",
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/ClassFunc/useHotKey.git"
   },
   "keywords": [
-    "use-hot-key-press",
-    "usehotkey",
+    "use-hot-key-element",
+    "hotkey",
     "keyboard",
     "element"
   ],
