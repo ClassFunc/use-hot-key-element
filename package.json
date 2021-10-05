@@ -10,8 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/ClassFunc/useHotKey.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "use-hot-key",
+    "usehotkey",
+    "keyboard",
+    "element"
+  ],
+  "author": "ClassFunc",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ClassFunc/useHotKey/issues"
