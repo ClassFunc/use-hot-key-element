@@ -2,9 +2,17 @@
   "name": "use-hot-key-element",
   "version": "1.0.1",
   "description": "Make Hot Key in view easier",
-  "main": "index.js",
+  "main": "./index.cjs.js",
+  "module": "./index.esm.js",
+  "typings": "./index.d.ts",
+  "files": [
+    "**/*.js",
+    "**/*.d.ts",
+    "**/package.json"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node esbuild.cjs"
   },
   "repository": {
     "type": "git",
@@ -21,5 +29,16 @@
   "bugs": {
     "url": "https://github.com/ClassFunc/use-hot-key-element/issues"
   },
-  "homepage": "https://github.com/ClassFunc/use-hot-key-element#readme"
+  "homepage": "https://github.com/ClassFunc/use-hot-key-element#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "esbuild": "^0.14.29",
+    "esbuild-plugin-d.ts": "^1.1.0",
+    "glob": "^7.2.0",
+    "@types/lodash": "^4.14.180",
+    "@types/node": "^18.0.0",
+    "typescript": "^4.7.4"
+  }
 }
